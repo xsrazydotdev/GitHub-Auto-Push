@@ -1,2 +1,2 @@
 autopush log - Xsrazydotdev
-commit 7295
+commit 7296
